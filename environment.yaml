@@ -1,0 +1,5 @@
+name: environment
+channels:
+  - conda-forge
+  - defaults
+prefix: /Users/apple/miniconda3/envs/environment
